@@ -5,9 +5,9 @@ Undergraduate student majoring in **Information Systems** at the **University of
 ---
 
 ### About Me
-- **University:** VNU-HCM University of Science (Đại học Khoa học Tự nhiên - ĐHQG TP.HCM)
-- **Faculty:** Faculty of Information Technology (Khoa Công nghệ Thông tin)
-- **Major:** Information Systems (Hệ thống Thông tin)
+- **University:** VNU-HCM University of Science
+- **Faculty:** Faculty of Information Technology (FIT - HCMUS)
+- **Major:** Information Systems
 - **Location:** Ho Chi Minh City, Vietnam
 - **Areas of Interest:** Software Engineering, Database Systems, System Integration & Practical Computing
 
@@ -34,4 +34,6 @@ Undergraduate student majoring in **Information Systems** at the **University of
 ---
 
 ### Contact
+- **Email:** [12092k6@gmail.com](mailto:12092k6@gmail.com)
+- **Discord:** `aoe1920`
 - **GitHub:** [@F0n9](https://github.com/F0n9)

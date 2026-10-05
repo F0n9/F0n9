@@ -1,12 +1,12 @@
 # Tien (aoe1920)
 
-Undergraduate student majoring in **Information Systems** at the **University of Science, VNU-HCM (FIT - HCMUS)**.
+Undergraduate student majoring in **Information Systems** at the **University of Science, VNU-HCM**.
 
 ---
 
 ### About Me
 - **University:** VNU-HCM University of Science
-- **Faculty:** Faculty of Information Technology (FIT - HCMUS)
+- **Faculty:** Faculty of Information Technology
 - **Major:** Information Systems
 - **Location:** Ho Chi Minh City, Vietnam
 - **Areas of Interest:** AI Engineering, Software Engineering

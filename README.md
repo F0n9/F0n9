@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Tien (aoe1920)
 
-<!--
-**F0n9/F0n9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems student at University of Science, VNU-HCM (HCMUS).
 
-Here are some ideas to get you started:
+#### Tech Stack
+- **Languages:** C++, C#, Python, JavaScript / TypeScript, SQL
+- **Frameworks & Tools:** .NET, Next.js, React, Git
+- **Typesetting:** Typst, LaTeX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projects
+- **Remote Desktop & Control:** Ứng dụng điều khiển máy tính từ xa (.NET, WebSockets, Next.js).
+- **Web Projects:** Các ứng dụng web thực hành và dự án học phần.
+- **Report Templates:** Template báo cáo học thuật bằng Typst và LaTeX.
+
+#### Contact
+- GitHub: [@F0n9](https://github.com/F0n9)

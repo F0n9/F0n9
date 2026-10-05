@@ -9,18 +9,18 @@ Undergraduate student majoring in **Information Systems** at the **University of
 - **Faculty:** Faculty of Information Technology (FIT - HCMUS)
 - **Major:** Information Systems
 - **Location:** Ho Chi Minh City, Vietnam
-- **Areas of Interest:** Software Engineering, Database Systems, System Integration & Practical Computing
+- **Areas of Interest:** AI Engineering, Software Engineering
 
 ---
 
 ### Technical Skills
 
-| Category | Technologies & Tools |
+| Category | Technologies and Tools |
 | :--- | :--- |
 | **Programming Languages** | C++, C#, Python, SQL, TypeScript, JavaScript |
-| **Frameworks & Libraries** | .NET / ASP.NET, React, Next.js, Node.js |
-| **Environment & Tools** | Git, Linux, Docker, VS Code, Visual Studio |
-| **Typesetting & Formats** | Typst, LaTeX, Markdown |
+| **Frameworks and Libraries** | .NET / ASP.NET, React, Next.js, Node.js |
+| **Environment and Tools** | Git, Linux, Docker, VS Code, Visual Studio |
+| **Typesetting and Formats** | Typst, LaTeX, Markdown |
 
 ---
 

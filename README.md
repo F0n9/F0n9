@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tien (aoe1920)
+# Tien Dang (aoe1920)
 
 **Information Systems** at **University of Science, VNU-HCM**  
 *Focusing on AI Engineering and Software Engineering*
@@ -30,8 +30,8 @@
 ### GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=F0n9&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Tien's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F0n9&theme=github_dark&hide_border=true" alt="Tien's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=F0n9&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Tien Dang's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F0n9&theme=github_dark&hide_border=true" alt="Tien Dang's Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0n9&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />

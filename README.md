@@ -1,6 +1,4 @@
-# Tien Dang (aoe1920)
-
-### About Me
+# About Me
 Undergraduate student majoring in **Information Systems** at the **University of Science, VNU-HCM**, with a focus on **AI Engineering** and **Software Engineering**.
 
 <p align="left">

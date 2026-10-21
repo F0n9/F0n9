@@ -1,18 +1,14 @@
-<div align="center">
-
 # Tien Dang (aoe1920)
 
-**Information Systems** at **University of Science, VNU-HCM**  
-*Focusing on AI Engineering and Software Engineering*
+### About Me
+Undergraduate student majoring in **Information Systems** at the **University of Science, VNU-HCM**, with a focus on **AI Engineering** and **Software Engineering**.
 
-<p align="center">
-  <a href="mailto:12092k6@gmail.com"><img src="https://img.shields.io/badge/Email-12092k6%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Discord-aoe1920-0d1117?style=flat-square&logo=discord&logoColor=white" />
-  <a href="https://github.com/F0n9"><img src="https://img.shields.io/badge/GitHub-F0n9-0d1117?style=flat-square&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-0d1117?style=flat-square&logo=google-maps&logoColor=white" />
+<p align="left">
+  <a href="mailto:12092k6@gmail.com"><img src="https://img.shields.io/badge/Email-12092k6%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Discord-aoe1920-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://github.com/F0n9"><img src="https://img.shields.io/badge/GitHub-F0n9-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-4285F4?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
 </p>
-
-</div>
 
 ---
 

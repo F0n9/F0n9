@@ -1,4 +1,4 @@
-<h1 align="center">Tien Dang</h1>
+<h1 align="center">About me</h1>
 
 <p align="center">
   Undergraduate in Information Systems at <strong>VNU-HCM University of Science (HCMUS)</strong>

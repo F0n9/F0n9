@@ -1,11 +1,9 @@
-<div align="center">
+<h1 align="center">Tien Dang</h1>
 
-# Tien Dang
-
-**Undergraduate in Information Systems at VNU-HCM University of Science (HCMUS)**  
-Focusing on Software Engineering, Web Technologies & Applied Systems
-
-<br />
+<p align="center">
+  <strong>Undergraduate in Information Systems at VNU-HCM University of Science (HCMUS)</strong><br />
+  Focusing on Software Engineering, Web Technologies & Applied Systems
+</p>
 
 <p align="center">
   <a href="mailto:12092k6@gmail.com"><img src="https://img.shields.io/badge/Email-12092k6%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -13,8 +11,6 @@ Focusing on Software Engineering, Web Technologies & Applied Systems
   <img src="https://img.shields.io/badge/Discord-aoe1920-0d1117?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-0d1117?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
 </p>
-
-</div>
 
 ---
 
